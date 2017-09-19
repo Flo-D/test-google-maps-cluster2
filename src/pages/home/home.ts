@@ -79,6 +79,10 @@ export class HomePage {
           console.log('info click');
           console.log(param);
         });
+        /*marker.one(GoogleMapsEvent.INFO_CLICK, function(param) {
+          console.log('info click');
+          console.log(param);
+        });*/
       });
 
     });
